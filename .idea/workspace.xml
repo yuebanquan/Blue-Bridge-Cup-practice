@@ -2,89 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b5e1fe-be17-4524-98a5-5c5ec073583b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/connect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/dl-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/foot-qrcode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/foot-qrcode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/gywm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/lqstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/lx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/lxwm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/nav_s140928.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/shouye-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/shouye-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/入门训练/BEGIN4_Fibonacci数列_files/yhxy-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/connect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/dl-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/foot-qrcode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/foot-qrcode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/gywm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/lqstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/lx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/lxwm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/nav_s140928.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/shouye-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/shouye-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC1_闰年判断_files/yhxy-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/connect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/dl-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/foot-qrcode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/foot-qrcode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/gywm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/lqstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/lx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/lxwm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/nav_s140928.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/shouye-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/shouye-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC2_01字串_files/yhxy-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/connect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/dl-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/foot-qrcode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/foot-qrcode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/gywm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/lqstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/lx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/lxwm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/nav_s140928.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/shouye-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/shouye-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC3_字母图形_files/yhxy-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/connect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/dl-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/foot-qrcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/foot-qrcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/gywm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/lqstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/lx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/lxwm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/nav_s140928.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/shouye-foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/shouye-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC4_数列特征_files/yhxy-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/connect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/dl-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/foot-qrcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/foot-qrcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/gywm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/lqstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/lx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/lxwm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/nav_s140928.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/shouye-foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/shouye-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC5_查找整数_files/yhxy-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/connect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/dl-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/foot-qrcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/foot-qrcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/gywm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/lqstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/lx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/lxwm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/nav_s140928.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/shouye-foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/shouye-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC6_杨辉三角形_files/yhxy-foot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -128,20 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BASIC3">
-    <configuration name="BASIC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC1" />
-      <module name="蓝桥杯" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BASIC6">
     <configuration name="BASIC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="基础练习.BASIC2" />
       <module name="蓝桥杯" />
@@ -168,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BEGIN4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="入门训练.BEGIN4" />
+    <configuration name="BASIC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC4" />
       <module name="蓝桥杯" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="入门训练.*" />
+          <option name="PATTERN" value="基础练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +148,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.printf" />
+    <configuration name="BASIC5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC5" />
       <module name="蓝桥杯" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="基础练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BASIC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC6" />
+      <module name="蓝桥杯" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BASIC6" />
+        <item itemvalue="Application.BASIC5" />
+        <item itemvalue="Application.BASIC4" />
         <item itemvalue="Application.BASIC3" />
         <item itemvalue="Application.BASIC2" />
-        <item itemvalue="Application.BASIC1" />
-        <item itemvalue="Application.BEGIN4" />
-        <item itemvalue="Application.printf" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +194,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578906249263</updated>
-      <workItem from="1578906253865" duration="6892000" />
+      <workItem from="1578906253865" duration="9857000" />
     </task>
     <task id="LOCAL-00001" summary="修改目录结构">
       <created>1578908626132</created>
@@ -258,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578916616204</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新增题目">
+      <created>1578918591875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578918591875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
