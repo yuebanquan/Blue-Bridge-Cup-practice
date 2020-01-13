@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b5e1fe-be17-4524-98a5-5c5ec073583b" name="默认更改列表" comment="" />
+    <list default="true" id="f8b5e1fe-be17-4524-98a5-5c5ec073583b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/printf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/入门训练/BEGIN3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/入门训练/BEGIN3.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BEGIN1_A加B问题">
+  <component name="RunManager" selected="Application.printf">
     <configuration name="BEGIN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="入门训练.BEGIN1" />
       <module name="蓝桥杯" />
@@ -70,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BEGIN3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="入门训练.BEGIN3" />
+      <module name="蓝桥杯" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="入门训练.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.input" />
       <module name="蓝桥杯" />
@@ -83,8 +100,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.printf" />
+      <module name="蓝桥杯" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.printf" />
+        <item itemvalue="Application.BEGIN3" />
         <item itemvalue="Application.BEGIN1_A加B问题" />
         <item itemvalue="Application.BEGIN2" />
         <item itemvalue="Application.input" />
@@ -101,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578906249263</updated>
-      <workItem from="1578906253865" duration="2301000" />
+      <workItem from="1578906253865" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="修改目录结构">
       <created>1578908626132</created>
@@ -110,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578908626132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改目录结构">
+      <created>1578908665523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578908665523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
