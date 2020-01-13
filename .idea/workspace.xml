@@ -2,49 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b5e1fe-be17-4524-98a5-5c5ec073583b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/connect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/dl-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/foot-qrcode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/foot-qrcode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/gywm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/lqstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/lx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/lxwm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/nav_s140928.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/shouye-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/shouye-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC7_特殊的数字_files/yhxy-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/codemirror.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/connect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/dl-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/foot-qrcode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/foot-qrcode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/gywm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/lqstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/lx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/lxwm-foot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/nav_s140928.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/neat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/shouye-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/shouye-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC8_回文数_files/yhxy-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础练习/BASIC12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/connect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/dl-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/foot-qrcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/foot-qrcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/gywm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/lqstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/lx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/lxwm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/nav_s140928.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/shouye-foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/shouye-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC10_十进制转十六进制_files/yhxy-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/connect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/dl-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/foot-qrcode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/foot-qrcode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/gywm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/lqstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/lx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/lxwm-foot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/nav_s140928.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/shouye-foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/shouye-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/基础练习/BASIC11_十六进制转十进制_files/yhxy-foot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,6 +76,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="基础练习" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -88,9 +93,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BASIC9">
-    <configuration name="BASIC5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC5" />
+  <component name="RunManager" selected="Application.BASIC12">
+    <configuration name="BASIC10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC10" />
       <module name="蓝桥杯" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BASIC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC6" />
+    <configuration name="BASIC11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC11" />
       <module name="蓝桥杯" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BASIC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC7" />
+    <configuration name="BASIC12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础练习.BASIC12" />
       <module name="蓝桥杯" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BASIC12" />
+        <item itemvalue="Application.BASIC11" />
+        <item itemvalue="Application.BASIC10" />
         <item itemvalue="Application.BASIC9" />
         <item itemvalue="Application.BASIC8" />
-        <item itemvalue="Application.BASIC7" />
-        <item itemvalue="Application.BASIC6" />
-        <item itemvalue="Application.BASIC5" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578906249263</updated>
-      <workItem from="1578906253865" duration="11285000" />
+      <workItem from="1578906253865" duration="14418000" />
     </task>
     <task id="LOCAL-00001" summary="修改目录结构">
       <created>1578908626132</created>
@@ -232,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578922205329</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="新增题目">
+      <created>1578923611980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578923611980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,10 +287,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加" />
     <MESSAGE value="修改目录结构" />
     <MESSAGE value="新增题目" />
     <option name="LAST_COMMIT_MESSAGE" value="新增题目" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
