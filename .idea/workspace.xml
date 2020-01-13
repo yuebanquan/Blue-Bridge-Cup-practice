@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b5e1fe-be17-4524-98a5-5c5ec073583b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/入门训练/BEGIN4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/入门训练/BEGIN3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/入门训练/BEGIN3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.printf">
+  <component name="RunManager" selected="Application.BEGIN4">
     <configuration name="BEGIN1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="入门训练.BEGIN1" />
       <module name="蓝桥杯" />
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.input" />
+    <configuration name="BEGIN4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="入门训练.BEGIN4" />
       <module name="蓝桥杯" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="入门训练.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BEGIN4" />
         <item itemvalue="Application.printf" />
         <item itemvalue="Application.BEGIN3" />
         <item itemvalue="Application.BEGIN1_A加B问题" />
         <item itemvalue="Application.BEGIN2" />
-        <item itemvalue="Application.input" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578906249263</updated>
-      <workItem from="1578906253865" duration="3259000" />
+      <workItem from="1578906253865" duration="5236000" />
     </task>
     <task id="LOCAL-00001" summary="修改目录结构">
       <created>1578908626132</created>
@@ -149,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578908665523</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增题目">
+      <created>1578911008266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578911008266</updated>
+    </task>
+    <task id="LOCAL-00004" summary="新增题目">
+      <created>1578911027612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578911027612</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +208,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加" />
     <MESSAGE value="修改目录结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改目录结构" />
+    <MESSAGE value="新增题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增题目" />
   </component>
 </project>
